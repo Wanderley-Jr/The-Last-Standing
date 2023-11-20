@@ -5,13 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cebb9a37-8aa5-4c16-9321-07bb3b8bdfdc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/The Last Standing.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/mysql-connector-j-8.2.0/CHANGES" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/mysql-connector-j-8.2.0/INFO_BIN" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/mysql-connector-j-8.2.0/INFO_SRC" afterDir="false" />
@@ -746,14 +739,11 @@
       <change afterPath="$PROJECT_DIR$/mysql-connector-j-8.2.0/src/test/java/testsuite/x/internal/XProtocolAuthTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/mysql-connector-j-8.2.0/src/test/java/testsuite/x/internal/XProtocolTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/mysql-connector-j-8.2.0/src/test/java/testsuite/x/internal/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jogo/Batalha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jogo/TheLastStanding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jogo/dados/RepositorioGuerreiros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jogo/dados/RepositorioMisticos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jogo/entidades/Guerreiro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jogo/entidades/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jogo/entidades/Mistico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jogo/entidades/Personagem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jogo/Batalha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jogo/Batalha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jogo/entidades/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jogo/entidades/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jogo/entidades/Personagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jogo/entidades/Personagem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

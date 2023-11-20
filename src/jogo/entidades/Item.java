@@ -5,7 +5,6 @@ import java.util.Scanner;
 
 public class Item {
     public String descricao;
-    public char tipoPersonagem;
     public char modalidade;
     public int bonusAtaque;
     public int bonusDefesa;

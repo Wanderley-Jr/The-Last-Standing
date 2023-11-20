@@ -135,6 +135,8 @@ public class Batalha {
             System.out.print("Aperte ENTER para continuar...");
             teclado.nextLine();
 
+            // Se estamos no segundo round e uma única pessoa ganhou os 2 rounds anteriores,
+            // então ela vence por maioria (2/3 dos rounds ganhos) e pode pular.
             if (round == 2 && vencedor.equals(novoVencedor)) {
                 break;
             }
